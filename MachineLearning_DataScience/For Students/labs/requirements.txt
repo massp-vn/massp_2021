@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+bayesian-optimization==1.2.0
