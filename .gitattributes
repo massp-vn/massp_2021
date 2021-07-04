@@ -1,0 +1,2 @@
+D:/massp_2021/MachineLearning_DataScience/For[[:space:]]Students/reports/Team3/data/application_train.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
